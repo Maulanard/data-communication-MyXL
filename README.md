@@ -7,11 +7,9 @@ The workflow includes data cleaning, sentiment scoring using VADER, visualizatio
 
 ---
 
-## 🗂 Project Files
-| File | Type | Description |
-|------|------|-------------|
-| `data_myxl.xlsx` | Dataset | Cleaned dataset and Excel-based visualizations |
-| `report_myxl.pdf` | Report | Final summary containing insights and charts |
+## 📁 Project Files
+- [📊 myxl_data_communication.xlsx](myxl_data_communication.xlsx)
+- [📄 myxl_sentiment_report.pdf](myxl_sentiment_report.pdf)
 
 ---
 
